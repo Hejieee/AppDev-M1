@@ -1,0 +1,9 @@
+1. Setting Card and Container as the variable for easier access and editing on the actual code.
+
+2. Using the mousemove function, this will allow the card to adjust its rotation based on where the mouse is placed on the screen.
+
+3. This part of the code will revert the card back to its default animation or stance when the mouse leaves the location or hitbox of the card.
+
+4. This part of the code transforms the icons within the card to be flexible as the card moves around as the mouse moves toolbar.
+
+5. These are the icons and other elements that are used inside the card.
